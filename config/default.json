@@ -1,0 +1,6 @@
+{
+    "port": 3001,
+    "mongoUrl": "mongodb+srv://vinna:i25051978@cluster0.mjdph.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "web app cool",
+    "filePath": "E:\\React\\compege\\files"
+}
